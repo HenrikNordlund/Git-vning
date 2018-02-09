@@ -8,6 +8,12 @@ namespace Gitövning
         public static void RegisterGlobalFilters(GlobalFilterCollection filters)
         {
             filters.Add(new HandleErrorAttribute());
+
+
+            //Här kommer mitt bidrag
+            System.Console.WriteLine("Henrik Nordlund har gjort en ändring!");
+            
         }
+        
     }
 }
