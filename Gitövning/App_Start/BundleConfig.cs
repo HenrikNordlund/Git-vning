@@ -2,8 +2,7 @@
 using System.Web.Optimization;
 
 namespace Gitövning
-    // Henrik Gahn was here
-    
+    // Åke Elweskiöld was here
 {
     public class BundleConfig
     {
