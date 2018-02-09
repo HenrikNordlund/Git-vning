@@ -3,6 +3,7 @@ using System.Web.Optimization;
 
 namespace Gitövning
     // Åke Elweskiöld was here
+    // Åke skriver från mitt lokala repo
 {
     public class BundleConfig
     {
